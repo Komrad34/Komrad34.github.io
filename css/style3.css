@@ -644,6 +644,7 @@ img {
   opacity: 1;
   visibility: visible;
   box-shadow: 0 0 0 0.3em #000000, 0 0 0 0.3em black;
+  z-index: 1;
 }
 
 .img5:hover {
