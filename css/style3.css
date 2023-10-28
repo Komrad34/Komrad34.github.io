@@ -383,6 +383,7 @@ img {
   width: 80%;
   margin: calc(var(--index) * 0.5) auto;
   row-gap: calc(var(--index) * 1.5);
+  column-gap: 2%;
 }
 
 .img1 {
@@ -471,7 +472,7 @@ img {
   top: 0;
   width: calc(var(--index) * 19);
   background-color: #000000;
-  height: calc(var(--index) * 10.6);
+/*   height: calc(var(--index) * 10.6); */
   left: calc(var(--index) * -9);
   visibility: hidden;
   opacity: 0;
@@ -507,7 +508,7 @@ img {
   top: 0;
   width: calc(var(--index) * 19);
   background-color: #000000;
-  height: calc(var(--index) * 10.6);
+/*   height: calc(var(--index) * 10.6); */
   right: calc(var(--index) * -9);
   visibility: hidden;
   opacity: 0;
@@ -543,7 +544,7 @@ img {
   top: 0;
   width: calc(var(--index) * 19);
   background-color: #000000;
-  height: calc(var(--index) * 10.6);
+/*   height: calc(var(--index) * 10.6); */
   left: calc(var(--index) * -9);
   visibility: hidden;
   opacity: 0;
@@ -579,7 +580,7 @@ img {
   top: 0;
   width: calc(var(--index) * 19);
   background-color: #000000;
-  height: calc(var(--index) * 10.6);
+/*   height: calc(var(--index) * 10.6); */
   right: calc(var(--index) * -9);
   visibility: hidden;
   opacity: 0;
@@ -615,7 +616,7 @@ img {
   top: 0;
   width: calc(var(--index) * 20);
   background-color: #000000;
-  height: calc(var(--index) * 12.1);
+/*   height: calc(var(--index) * 12.1); */
   left: calc(var(--index) * -3.4);
   visibility: hidden;
   opacity: 0;
